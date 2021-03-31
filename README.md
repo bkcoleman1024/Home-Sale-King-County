@@ -5,7 +5,7 @@ There are many factors that can influence the price of a home. Real estate profe
 Based on recent home sales I will examine the features of these homes to see if there are trends that effect the sales price.
 
 # Business Problem
-There are several factors and many places to get the information.
+There are many factors that can contribute to a sales price.  This project is looking into potential home improvement projects.  
 
 # Data Understanding
 The data has been collected for home sales in King County, WA.  The data contains all of the real property sales from 2019.  The data contains information from commercial and residential properties.
